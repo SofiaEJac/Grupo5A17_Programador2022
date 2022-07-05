@@ -1,7 +1,6 @@
 # Grupo5A17_Programador2022
 Proyecto Integrador Grupal para el Módulo de Programador del ISPC, año 2022
-# Grupo5_Programador2022
-Proyecto Integrador Grupal para el Módulo de Programador del ISPC, año 2022
+
 # ***Ceremonia:***
 El marco de trabajo Scrum propone realizar un total de 4 **ceremonias** (a modo de reuniones o eventos) durante un Sprint para ayudar a alcanzar los resultados esperados. Estas ceremonias son:
 1. Sprint Planning Meeting (al inicio de un Sprint, se planifica qué es lo que se hará en el mismo y cómo se hará, se establece un Objetivo)
