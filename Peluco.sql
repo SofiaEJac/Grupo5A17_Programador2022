@@ -31,10 +31,12 @@ primary key(ID_Historial),
 foreign key(Perro) references Perro(ID_Perro)
 );
 
-
--- Ejercicio Nº 9 
+-- Ejercicio Nº 1 y 2 
+insert into Perro values (1, 'Toto', '2019-02-19', 'Macho', 24567845); 
 insert into Dueno values (45678976, 'Pedro', 'González', '23345332', 'Córdoba');
 insert into Dueno values (3456789, 'Jorge', 'Ramirez', '26145678', 'Lavalle'); 
+
+-- Ejercicio Nº 9 
 select * From Dueno;
 SET SQL_SAFE_UPDATES = 0;
 update Dueno set Direccion = 'Libertad 123' where Direccion = 'Lavalle';
