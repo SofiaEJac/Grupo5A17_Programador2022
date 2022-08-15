@@ -43,3 +43,4 @@ update Dueno set Direccion = 'Libertad 123' where Direccion = 'Lavalle';
 select * From Dueno;
 
 
+
